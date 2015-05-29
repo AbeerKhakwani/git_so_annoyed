@@ -4,3 +4,12 @@
 [submodule "sites/all/modules/bakery"]
 	path = sites/all/modules/bakery
 	url = https://github.com/dianedouglas/bakery_user
+[submodule "friday_assesment_may_29_submodule"]
+	path = friday_assesment_may_29_submodule
+	url = https://github.com/AbeerKhakwani/friday_assesment_may_29_submodule.git
+[submodule "sites/all/modules/z_zabeer"]
+	path = sites/all/modules/z_zabeer
+	url = https://github.com/AbeerKhakwani/friday_assesment_may_29_submodule.git
+[submodule "sites/all/modules/abeer"]
+	path = sites/all/modules/abeer
+	url = https://github.com/AbeerKhakwani/friday_assesment_may_29_submodule.git

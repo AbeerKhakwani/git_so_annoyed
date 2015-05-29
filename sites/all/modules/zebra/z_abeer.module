@@ -1,0 +1,11 @@
+<?php
+
+function z_abeer_form_alter(&$form, &$form_state, $form_id) {
+      //print_r($form_id ."<br/>");
+
+    if($form_id == 'comment_node_page_form') {
+       print '<pre>';
+       print_r($form['subject']['#access']= 0) ;
+       print '</pre>';
+   }
+}
