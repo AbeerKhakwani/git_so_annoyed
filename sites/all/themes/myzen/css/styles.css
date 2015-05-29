@@ -57,3 +57,7 @@ a:hover{
 .form-submit{
     margin-top:5px;
 }
+
+#edit-author--2 {
+    display:none;
+}

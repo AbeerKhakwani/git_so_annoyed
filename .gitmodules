@@ -16,3 +16,6 @@
 [submodule "sites/all/modules/abeerk"]
 	path = sites/all/modules/abeerk
 	url = https://github.com/AbeerKhakwani/submodule_subject_remove.git
+[submodule "sites/all/modules/abeerkl"]
+	path = sites/all/modules/abeerkl
+	url = https://github.com/AbeerKhakwani/submodule_subject_remove.git
