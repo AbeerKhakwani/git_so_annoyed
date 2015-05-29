@@ -1,0 +1,10 @@
+<?php
+
+function z_abeer_form_alter(&$form, &$form_state, $form_id) {
+      //print_r($form_id ."<br/>");
+
+     if($form_id == 'comment_node_page_form') {
+       $form ['author']['#access']=0 ;
+
+    }
+}
